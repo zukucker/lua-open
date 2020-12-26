@@ -1,2 +1,2 @@
 #!/bin/bash
-cp testfilebak testfile
+cp .testfilebak testfile
